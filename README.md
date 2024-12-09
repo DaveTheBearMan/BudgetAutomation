@@ -7,6 +7,15 @@ Name each file after its pnc reference number
 - Flattened / Seperate is automatic
 - Combined pdf is produced in same directory as combine.py
 
+# How to fill out a receipt
+- Fill out 1010
+- Save to new pdf with your changes, save as the PnC reference number
+- Refresh the page and fill out the next one
+
+# How to save a receipt
+- Use the document scanner
+- It generally actually reads the date off the receipt if you put it in receipt mode
+- You can pretty quickly match up receipts to reference number by transcation date
 
 # How to get attendance from an event 
 
